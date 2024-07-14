@@ -20,14 +20,14 @@ I specialize in developing web applications, focusing on Django and TailwindCSS.
 - Explore a world of art and exhibitions at HUDPROMO!
 - **Skills:** HTML, CSS, Tailwind, Django, Adobe Photoshop, Python
 - **Location:** HudPromo | Odesa
-- **Link:** [HudPromo](https://hudpromo.dymov.tech) *(Please replace this with the actual URL)*
+- **Link:** [HudPromo](https://hudpromo.dymov.tech)
 
-### CF BULAT - Web Site
+### CF-BULAT - Web Site
 **March 2024 - Present | Freelance**
 - Help the Ukrainians NOW!
 - **Skills:** Python, Tailwind, Django, CSS, HTML
-- **Location:** CF BULAT
-- **Link:** [CF BULAT](https://cf-bulat.com)
+- **Location:** CF-BULAT
+- **Link:** [CF-BULAT](https://cf-bulat.com)
 
 ### MegapolisGrand - Web Site
 **February 2024 - Present | Freelance**
