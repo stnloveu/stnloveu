@@ -5,12 +5,11 @@
 ## About Me
 I specialize in developing web applications, focusing on Django and TailwindCSS.
 
-- 🌱 Currently learning Ren'Py for game development.
 - 📫 You can reach me via [Email](mailto:mak.dymov@gmail.com).
 
 ## Skills
 - Languages: Python, HTML, CSS
-- Frameworks: Django, Ren'Py
+- Frameworks: Django
 - Tools: Git, VSCode
 
 ## Projects
